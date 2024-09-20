@@ -1,6 +1,14 @@
 import Header from "./Header";
 
 export default function LandingPage(){
+    
+    const handleScrollToProjects = () => {
+        const projectsSection = document.getElementById("projects");
+        if (projectsSection) {
+          projectsSection.scrollIntoView({ behavior: "smooth" });
+        }
+      };
+
     return(
         <>
         <Header/>
@@ -9,7 +17,7 @@ export default function LandingPage(){
         <div className="landing-detail">
             <h2>Hey, I'm Sujal.</h2>
             <h1>I enjoy <span>building</span> and <span>designing </span> for the web.</h1>
-            <button>Tell Me More</button>
+          <button onClick={handleScrollToProjects}>Tell Me More</button>
         </div>
        
         </div>
