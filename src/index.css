@@ -182,9 +182,10 @@ justify-items: center;
 .project-details-div ul{
   display: flex;
   justify-content: space-between;
-  padding: 0 0.5rem 0 0.5rem;
+  /* padding: 0 0.5rem 0 0.5rem; */
   margin-top: 1rem;
-  gap: 5px;
+  gap: 2px;
+  
 }
 .project-details-div ul li{
   list-style: none;
@@ -192,6 +193,7 @@ justify-items: center;
   background-color: rgb(25 39 66);
   padding: .25rem 0.5rem .25rem 0.5rem;
   border-radius: .5rem;
+  
 }
 .veiw-all{
   padding: 15px 25vw 15px 25vw;
