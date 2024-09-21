@@ -26,8 +26,14 @@ header{
   align-items: center;
 }
 header img{
-  width: 10vw;
-  height: 10vh;
+  width: 8vw;
+  height: 7vh;
+  
+}
+
+.animate__animated.animate__shakeY {
+  --animate-duration: 10s;
+  animation-iteration-count: infinite;
 }
 .nav-items{
   display: flex;
@@ -235,6 +241,7 @@ justify-items: center;
 .fancy-lines{
   height: 40vh;
   overflow: hidden;
+  text-align: center;
 }
 .resume-detail{
   display: flex;
@@ -437,10 +444,14 @@ justify-items: center;
     
   }
   .skill-icons{
-    width: 100%;
+    width: 90%;
     margin-bottom: 30vh;
     padding: 1rem;
     height: 20vh;
+  }
+  .skill-icons img{
+    width: 10vw;
+    height: 15vh;
   }
 
   .resume-detail h1 {
@@ -460,8 +471,9 @@ justify-items: center;
 }
 
 .cont-form, .cont-detail {
-    width: 100%;
+    width: 100vw;
     height: auto; 
+    margin-left: 25vw;
 }
 
 .scroll-top {

@@ -2,7 +2,7 @@ export default function Header(){
     return(
         <header id="home">
             <div className="logo">
-           <img src="https://braydentw.io/static/logos/logo_no_text.svg" alt="" />
+           <img src="https://www.nitrodesigns.net/wp-content/uploads/2015/11/S-logo.png" alt="" />
            <h2>SUJAL</h2>
             </div>
             <div className="nav-items">

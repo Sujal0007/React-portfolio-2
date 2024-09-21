@@ -5,8 +5,8 @@ export default function Skills(){
             <div className='skill-detail'>
             <p>I got the experience.</p>
             <p>Here is my toolbelt for success.</p>
-            <img className="skill-i" src="/landingimg/Screenshot 2024-09-20 163446.png" alt="" />
-            <img className="skill-i1" src="/landingimg/Screenshot 2024-09-20 163527.png" alt="" />
+            <img className="skill-i animate__animated animate__shakeY" src="/landingimg/Screenshot 2024-09-20 163446.png" alt="" />
+            <img className="skill-i1 animate__animated animate__shakeY" src="/landingimg/Screenshot 2024-09-20 163527.png" alt="" />
             </div>
             <div className="skill-icons">
                 <img src="/skillimg/Screenshot 2024-09-20 174842.png" alt="" />
