@@ -32,7 +32,7 @@ header img{
 }
 
 .animate__animated.animate__shakeY {
-  --animate-duration: 10s;
+  --animate-duration: 30s;
   animation-iteration-count: infinite;
 }
 .nav-items{
