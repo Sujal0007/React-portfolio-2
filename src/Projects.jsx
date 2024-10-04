@@ -34,7 +34,7 @@ const projectData = [
       skills: ['Html','Css','JavaScript','JSON','LocalStorage']
     },
     {
-      imgUrl: "public/projectimg/Screenshot 2024-10-04 102705.png",
+      imgUrl: "/projectimg/Screenshot 2024-10-04 102705.png",
       detail: " Apple clone with good UI and Category Based Rendering",
       githubLink: "https://github.com/Sujal0007/i-Clone",
       liveDemo: "https://iclonereact.netlify.app/",
