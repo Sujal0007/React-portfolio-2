@@ -33,6 +33,22 @@ const projectData = [
       title: "Quiz Maker App",
       skills: ['Html','Css','JavaScript','JSON','LocalStorage']
     },
+    {
+      imgUrl: "public/projectimg/Screenshot 2024-10-04 102705.png",
+      detail: " Apple clone with good UI and Category Based Rendering",
+      githubLink: "https://github.com/Sujal0007/i-Clone",
+      liveDemo: "https://iclonereact.netlify.app/",
+      title: "Apple Clone",
+      skills: ['HTML5' , 'CSS3' , 'REACT' , 'React Router']
+    },
+    {
+      imgUrl: "/projectimg/Screenshot 2024-10-04 102751.png",
+      detail: "News App with features like infitine Scroll , Search Based On Routing , Category Based Rendering and filtering",
+      githubLink: "https://github.com/Sujal0007/News-App",
+      liveDemo: "https://nbcnewsreact.netlify.app/",
+      title: "News App",
+      skills: ['HTML5' , 'CSS3' , 'REACT' , 'React Router' , 'Mirage js']
+    },
   ];
 
 
