@@ -19,7 +19,7 @@ export default function LandingPage(){
             <h2>Hey, I'm Sujal.</h2>
             <h1>I enjoy <span>building</span> and <span>designing </span> for the web.</h1>
           <button onClick={handleScrollToProjects}>Tell Me More</button>
-          <a href="/sujalResume.pdf"  target="_blank"><button className="resume-btn">Get Resume</button></a>
+          <a href="/SujalXp2.pdf"  target="_blank"><button className="resume-btn">Get Resume</button></a>
         </div>
        
         </div>
